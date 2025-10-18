@@ -13,7 +13,8 @@
 
 ###
 
-<p align="left">I'm a second year software engineering student studying at the University of Canterbury in New Zealand.<br><br>I am currently updating my portfolio site with react.</p>
+I'm a second year software engineering student studying at the University of Canterbury in **New Zealand**.
+- I am currently updating my portfolio site with react.
 
 ###
 
