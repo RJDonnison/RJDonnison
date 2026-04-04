@@ -13,7 +13,7 @@
 
 ###
 
-I'm a second year software engineering student studying at the University of Canterbury in **New Zealand**.
+I'm a third year software engineering student studying at the University of Canterbury in **New Zealand**.
 - I am currently updating my portfolio site with react.
 
 ###
