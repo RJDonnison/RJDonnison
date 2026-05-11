@@ -14,8 +14,7 @@
 ###
 
 I'm a third year software engineering student studying at the University of Canterbury in **New Zealand**.
-- I am currently updating my portfolio site with react.
-- Working on a chess bot
+- Working on a [chess bot]([url](https://chess.reujdon.dev))
 
 ###
 
