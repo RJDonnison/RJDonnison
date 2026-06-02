@@ -14,7 +14,7 @@
 ###
 
 I'm a third year software engineering student studying at the University of Canterbury in **New Zealand**.
-- Working on a [chess bot](https://chess.reujdon.dev)
+- Working on a [web browser](https://github.com/RJDonnison/Web-browser)
 
 ###
 
